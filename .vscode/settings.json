@@ -1,3 +1,7 @@
 {
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "elmLS.elmPath": "/home/simon/miniconda3/envs/spa/bin/elm",
+    "elmLS.elmReviewPath": "/home/simon/miniconda3/envs/spa/bin/elm-review",
+    "elmLS.elmFormatPath": "/home/simon/miniconda3/envs/spa/bin/elm-format",
+    "elmLS.elmTestPath": "/home/simon/miniconda3/envs/spa/bin/elm-test",
 }
